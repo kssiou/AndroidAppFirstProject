@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">4IIR9</string>
+    <string name="enregistrer">ENREGISTRER</string>
+    <string name="nom">Nom</string>
+    <string name="prenom" />
+    <string name="prm">Prenom</string>
+    <string name="classe">classe</string>
+    <string name="remarque">Remarque</string>
+
 </resources>

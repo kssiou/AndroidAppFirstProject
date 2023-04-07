@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="txt1" type="id" />
+    <item name="btn" type="id" />
+    <item name="txtNom" type="id" />
+    <item name="LabelNom" type="id" />
+    <item name="txtPrenom" type="id" />
+    <item name="EditPrenom" type="id" />
+    <item name="textPrenom" type="id" />
+    <item name="LabelPrenom" type="id" />
+    <item name="Classetxt" type="id" />
+    <item name="Labelclasse" type="id" />
+    <item name="Remarquetxt" type="id" />
+    <item name="LabelRemarque" type="id" />
+
 
 </resources>
