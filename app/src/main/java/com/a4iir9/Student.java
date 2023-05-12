@@ -2,6 +2,8 @@ package com.a4iir9;
 
 import android.graphics.Bitmap;
 
+import java.util.List;
+
 public class Student {
     private int id;
 
@@ -11,6 +13,7 @@ public class Student {
     private String classe;
     private String phone;
     private Bitmap photo;
+    private List<Notes> notes ;
 
 
     public Student(int id, String nom, String prenom, String classe, String phone, Bitmap photo) {
@@ -70,5 +73,13 @@ public class Student {
 
     public void setPhoto(Bitmap photo) {
         this.photo = photo;
+    }
+
+    public List<Notes> getNotes() {
+        return notes;
+    }
+
+    public void setNotes(List<Notes> notes) {
+        this.notes = notes;
     }
 }
